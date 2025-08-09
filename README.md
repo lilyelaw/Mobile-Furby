@@ -1,7 +1,7 @@
 # MOBILE FURBY
-#### Video Demo:  https://www.youtube.com/watch?v=ue6-jdBhCOY&t=1s
+#### Video Demo:  https://www.youtube.com/watch?v=ue6-jdBhCOY
 
-[![Watch the video](https://img.youtube.com/vi/ue6-jdBhCOY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ue6-jdBhCOY&t=1s)
+[![Watch the video](https://img.youtube.com/vi/ue6-jdBhCOY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ue6-jdBhCOY)
 
 #### Description:
 
